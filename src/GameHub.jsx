@@ -28,6 +28,18 @@ export default function GameHub() {
         >
           🎲 Dice Game
         </a>
+        <a
+          href="https://video-poker-weld.vercel.app/"
+          className="bg-gray-800 hover:bg-gray-700 text-white text-xl py-4 px-6 rounded-2xl text-center shadow-lg transition"
+        >
+          🃏 Video Poker
+        </a>
+        <button
+          className="bg-gray-700 text-white text-xl py-4 px-6 rounded-2xl text-center shadow-lg cursor-not-allowed opacity-60"
+          disabled
+        >
+          ⚔️ Knight Game (Coming Soon!)
+        </button>
       </div>
     </div>
   );
