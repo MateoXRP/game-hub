@@ -40,6 +40,12 @@ export default function GameHub() {
         >
           🛡️ Knight Game
         </a>
+        <a
+          href="https://tank-game-nu.vercel.app/"
+          className="bg-gray-800 hover:bg-gray-700 text-white text-xl py-4 px-6 rounded-2xl text-center shadow-lg transition"
+        >
+          🪖 Tank Game
+        </a>
       </div>
     </div>
   );
