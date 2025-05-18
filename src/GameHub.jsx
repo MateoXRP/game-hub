@@ -11,28 +11,10 @@ export default function GameHub() {
 
       <div className="flex flex-col space-y-6 w-full max-w-xs">
         <a
-          href="https://rock-paper-scissors-psi-dun.vercel.app"
+          href="https://tank-game-refactor.vercel.app/"
           className="bg-gray-800 hover:bg-gray-700 text-white text-xl py-4 px-6 rounded-2xl text-center shadow-lg transition"
         >
-          ✂️ Rock Paper Scissors
-        </a>
-        <a
-          href="https://slot-machine-lake.vercel.app/"
-          className="bg-gray-800 hover:bg-gray-700 text-white text-xl py-4 px-6 rounded-2xl text-center shadow-lg transition"
-        >
-          🎰 Slot Machine
-        </a>
-        <a
-          href="https://dice-game-ruby-psi.vercel.app/"
-          className="bg-gray-800 hover:bg-gray-700 text-white text-xl py-4 px-6 rounded-2xl text-center shadow-lg transition"
-        >
-          🎲 Dice Game
-        </a>
-        <a
-          href="https://video-poker-weld.vercel.app/"
-          className="bg-gray-800 hover:bg-gray-700 text-white text-xl py-4 px-6 rounded-2xl text-center shadow-lg transition"
-        >
-          🂡 Video Poker
+          🪖 Tank Game
         </a>
         <a
           href="https://knight-game-three.vercel.app/"
@@ -41,10 +23,28 @@ export default function GameHub() {
           🛡️ Knight Game
         </a>
         <a
-          href="https://tank-game-nu.vercel.app/"
+          href="https://video-poker-weld.vercel.app/"
           className="bg-gray-800 hover:bg-gray-700 text-white text-xl py-4 px-6 rounded-2xl text-center shadow-lg transition"
         >
-          🪖 Tank Game
+          🂡 Video Poker
+        </a>
+        <a
+          href="https://dice-game-ruby-psi.vercel.app/"
+          className="bg-gray-800 hover:bg-gray-700 text-white text-xl py-4 px-6 rounded-2xl text-center shadow-lg transition"
+        >
+          🎲 Dice Game
+        </a>
+        <a
+          href="https://slot-machine-lake.vercel.app/"
+          className="bg-gray-800 hover:bg-gray-700 text-white text-xl py-4 px-6 rounded-2xl text-center shadow-lg transition"
+        >
+          🎰 Slot Machine
+        </a>
+        <a
+          href="https://rock-paper-scissors-psi-dun.vercel.app"
+          className="bg-gray-800 hover:bg-gray-700 text-white text-xl py-4 px-6 rounded-2xl text-center shadow-lg transition"
+        >
+          ✂️ Rock Paper Scissors
         </a>
       </div>
     </div>
