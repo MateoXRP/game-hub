@@ -11,6 +11,12 @@ export default function GameHub() {
 
       <div className="flex flex-col space-y-6 w-full max-w-xs">
         <a
+          href="https://story-game-zeta.vercel.app/"
+          className="bg-gray-800 hover:bg-gray-700 text-white text-xl py-4 px-6 rounded-2xl text-center shadow-lg transition"
+        >
+          📚 Story Game
+        </a>
+        <a
           href="https://magic-game-silk.vercel.app/"
           className="bg-gray-800 hover:bg-gray-700 text-white text-xl py-4 px-6 rounded-2xl text-center shadow-lg transition"
         >
@@ -68,4 +74,3 @@ export default function GameHub() {
     </div>
   );
 }
-
