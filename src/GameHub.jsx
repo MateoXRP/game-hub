@@ -6,7 +6,7 @@ export default function GameHub() {
   }, []);
 
   return (
-    <div className="min-h-screen bg-black text-white flex flex-col items-center justify-center space-y-10 px-4">
+    <div className="min-h-screen bg-black text-white flex flex-col items-center justify-center space-y-10 px-4 pt-10 pb-10">
       <h1 className="text-4xl md:text-5xl font-bold text-center">🎮 Welcome to the Game Hub</h1>
 
       <div className="flex flex-col space-y-6 w-full max-w-xs">
